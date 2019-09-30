@@ -4,8 +4,9 @@
 
 # Static array that holds members of this class 
 participants=(rahuln)
-participants=(piyushs)
- 
+participants=(piyushs) 
+
 # print it 
 echo "${participants[@]}"
 
+New Changes
