@@ -5,7 +5,8 @@
 # Static array that holds members of this class 
 participants=(rahuln)
 participants=(piyushs)
- 
+participants=(vyomg)
+
 # print it 
 echo "${participants[@]}"
 
